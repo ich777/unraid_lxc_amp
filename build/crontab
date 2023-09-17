@@ -1,0 +1,1 @@
+0 5 1 * * /home/amp/update-amp.sh > /var/log/update-amp.log
